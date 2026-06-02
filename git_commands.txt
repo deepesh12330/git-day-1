@@ -14,6 +14,8 @@ git branch dev
 git switch dev
 
 
+==== this change is local and i want to seen github ===
+
  git status
    2 git init
    3 git init
