@@ -10,3 +10,24 @@ git pull origin master
 git branch
 git branch dev
 git switch dev
+
+
+ git status
+   2 git init
+   3 git init
+   4 git add .
+   5 git status
+   6 git commmit -m "added both file"
+   7 git commnet -m "added both file"
+   8 git satus
+   9 git status
+  10 git commit -m "added both file"
+  11 git status
+  12 git remote -v
+  13 git remote add origin https://github.com/deepesh12330/git-day-1.git
+  14 git status
+  15 git remote -v
+  16 git remote set-url origin https://deepesh12330/git-day-1.git
+  17 git remote -v
+  18 git push origin master
+  19 git history
